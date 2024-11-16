@@ -183,7 +183,7 @@ nav ul  li.active a{
 }
 .landing{
   height: 918px;
-  background-image: url("images/landing.png");
+  background-image: url("https://s3-alpha-sig.figma.com/img/c6bc/a364/1bee9c40a4948ffcdddee8fafeb3eeee?Expires=1732492800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gtEnhhtowvOAbqZr0CDxrLwWXWaTFv~Jg1swBo8xgsSNdv8KSr3Ig~RLKfEqprObLhJFdLFuqPmVyl6a44D9TT~xk6INImhl0KuA2bu4tLisBUa-JVWSQm1tXnzDCJQiPGLj-nvdAHqtdeXSIb4p3wjb-eY0TpfiSxDGdWXtdtTQyf5cStcb6DNKkKFkY9tChUX1ZG6IZ9JsYlDzU-dka9-uFagVWELpDH6XIbVIldW25j4MpB-nH96BjI1Uk7E1fuvjJcjfPp36P8KaePp9IF2Kd2sdUuFBAJJ2JctQ4L94X9lEw4Xhv0yBoYOn6KFjPGsdRZG71SVRpStZYREC9A__");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
