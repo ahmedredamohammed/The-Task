@@ -647,8 +647,8 @@ nav ul  li.active a{
 .special::after{
   content: url("images/Futuristic Orange Sports Car 1.png");
   position: absolute;
-  top: -100%;
-  left: 0;
+  bottom: 0;
+  right: 0;
   z-index: -1;
 }
 .special .spe-off{
