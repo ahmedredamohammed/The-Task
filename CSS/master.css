@@ -645,7 +645,7 @@ nav ul  li.active a{
   padding: 4px 103px 4px 99px;
 }
 .special::after{
-  content: url("images/Futuristic\ Orange\ Sports\ Car\ 1.png");
+  content: url("https://s3-alpha-sig.figma.com/img/c2a1/65de/b9b5c27adfb48fe4ef9415ce9d53cbef?Expires=1732492800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=COVOFfJs6QQm1vihiqsEsYtbWJh06RSj8KhHWv69nsGwqPmUDi1ajEwaA7LOd6zyc2iYoH3~qpah9L~618NzEA-Mb8xq8FET-GbqgpHFyyNY0-So02zkbgKsCgSrL~Y0CQ29xB5MebM-BMLBiGycPp~oMzhM0WV6KUCC~qnKo4Azlzmp7Rxn1IQHNpObGsDXuzEvBlJYl3UlYUzYcfS~mB16YdLXufop9zjMTykN3C64N8Msn7Ii2pPw2z0TGqHOQtlklwl-mszmD7bfaI4kc1uAfv~IBBTijgKpvZtCaxJT3ReAdb5yA1gR0lB-mfok3ubQVao5AryKnPLAwYxaLg__");
   position: absolute;
   top: -50%;
   left: 0;
