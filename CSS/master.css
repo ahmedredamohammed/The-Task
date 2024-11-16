@@ -183,7 +183,7 @@ nav ul  li.active a{
 }
 .landing{
   height: 918px;
-  background-image: url("/images/landing.png");
+  background-image: url("images/landing.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -645,7 +645,7 @@ nav ul  li.active a{
   padding: 4px 103px 4px 99px;
 }
 .special::after{
-  content: url("/images/Futuristic\ Orange\ Sports\ Car\ 1.png");
+  content: url("images/Futuristic\ Orange\ Sports\ Car\ 1.png");
   position: absolute;
   top: -50%;
   left: 0;
